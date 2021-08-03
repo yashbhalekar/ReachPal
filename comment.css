@@ -1,0 +1,11 @@
+.pb-cmnt-textarea{
+    resize: none;
+    padding: 20px;
+    height: 110px;
+    width: 100%;
+    border: 1px solid #F2F2F2;
+    color:rgb(135, 231, 56);
+    scrollbar-track-color: chartreuse;
+}
+
+/* css put in function php & put style sheet href  */
